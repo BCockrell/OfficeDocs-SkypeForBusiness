@@ -50,7 +50,7 @@ Your assisted upgrade experience will differ slightly depending on whether you h
   - Skype for Business Online users that are in Teams Only mode
   - Skype for Business Online users that are **not** in Teams Only mode
 
-  If you have a mixture of users in each of the categories listed above, the assisted upgrade process will only switch Skype for Business Online users to Teams Only mode if they're not already in that mode. On-premises Skype for Business users won't be impacted by the assisted upgrade process.
+  If you have a mix of users in each of the categories listed above, the assisted upgrade process will only switch Skype for Business Online users to Teams Only mode if they're not already in that mode. On-premises Skype for Business users won't be impacted by the assisted upgrade process.
 
 > [!NOTE]
 > Don't worry if your assisted upgrade is scheduled for a date after July 31, 2021. Your organization will be able to use Skype for Business Online until your upgrade is complete.
